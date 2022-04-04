@@ -1,0 +1,26 @@
+{
+  "name": "js-realchat-tutorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mason8766/js-RealChat-Tutorial.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Mason8766/js-RealChat-Tutorial/issues"
+  },
+  "homepage": "https://github.com/Mason8766/js-RealChat-Tutorial#readme",
+  "description": ""
+}
